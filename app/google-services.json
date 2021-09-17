@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735600170703",
+    "project_id": "travelpal-4e5aa",
+    "storage_bucket": "travelpal-4e5aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735600170703:android:ebd58e7340a8097b3409ba",
+        "android_client_info": {
+          "package_name": "com.example.travelpal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735600170703-ha3maif02cu3goah36shgdj60m6t0kj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFaPg1mSBxuclhZXrSWfjj8nF6-px_gdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735600170703-ha3maif02cu3goah36shgdj60m6t0kj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">TravelPal</string>
+
+    <!-- Button Related Start -->
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="submit">Submit</string>
+    <string name="book">Book</string>
+    <string name="proceed_to_payment">Proceed to payment</string>
+    <string name="checkout">Checkout</string>
+    <!-- Button Related End -->
+
+    <!-- Login Activity Start -->
+    <string name="log_in">Log In</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="first_time">First time here?</string>
+    <!-- Login Activity End -->
+
+    <string name="forgot_password_title_description">Enter your username and e-mail address we\'ll send you a email to reset your password</string>
+
+    <!-- Register Activity Start -->
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_contact_no">Contact No</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="terms_and_conditions">I Agree To The <u>Terms &amp; Conditions</u></string>
+
+    <string name="err_msg_enter_first_name">Please enter first name.</string>
+    <string name="err_msg_enter_last_name">Please enter last name.</string>
+    <string name="err_msg_enter_email">Please enter email.</string>
+    <string name="err_msg_enter_contact">Please enter contact number.</string>
+    <string name="err_msg_enter_password">Please enter password.</string>
+    <string name="err_msg_enter_confirm_password">Please enter confirm password.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Password and confirm password does not match.</string>
+    <string name="err_msg_agree_terms_and_condition">Please agree terms and condition.</string>
+
+    <string name="register_success">You are registered successfully.</string>
+    <!-- Register Activity End -->
+
+    <!-- Add Stay Activity Start -->
+    <string name="stay_upload_success">Stay has been successfully uploaded.</string>
+    <!-- Add Stay Activity End -->
+
+    <!-- Stay List Start -->
+    <string name="sl_location">Kuala Lumpur</string>
+    <string name="sl_title">2 Rooms</string>
+    <string name="sl_description">2 Beds, 1 Bath, Internet, Balcony, 2 AC, TV, Microwave, Kitchen</string>
+    <string name="sl_currency">RM</string>
+    <string name="sl_price">150</string>
+    <string name="sl_per_night"> / night</string>
+    <!-- Stay List End -->
+
+    <!-- Firebase Firestore Class Start -->
+    <string name="err_register_user">Error while registering user.</string>
+    <!-- Firebase Firestore Class End -->
+
+    <!-- Add Stay Activity Start -->
+    <string name="toolbar_add_stay">Add Stay</string>
+    <string name="content_img">Image</string>
+    <string name="hint_stay_details">Stay details</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_description">Description</string>
+    <string name="currency_per_night">RM/night</string>
+    <string name="hint_price">Price</string>
+
+
+    <string name="err_msg_select_stay_img">Please select the image of the stay.</string>
+    <string name="err_msg_enter_stay_details">Please enter the details of the stay.</string>
+    <string name="err_msg_enter_stay_location">Please enter the location of the stay.</string>
+    <string name="err_msg_enter_stay_description">Please enter the description of the stay.</string>
+    <string name="err_msg_enter_stay_price">Please enter the price of the stay.</string>
+    <!-- Add Stay Activity End -->
+
+    <!-- Booking Activity Start -->
+    <string name="toolbar_booking_details">Booking Details</string>
+    <string name="title_staying_from">I\'m staying from.</string>
+    <string name="title_to">To</string>
+    <string name="default_date">JAN 01 2020</string>
+    <string name="text_number_of_guests">Number of Guests</string>
+    <string name="hint_number_of_guests">0</string>
+    <string name="title_pricing_details">Pricing Details</string>
+    <string name="text_days_of_stay">Days of stay</string>
+    <string name="text_number_of_days">0</string>
+    <string name="text_currency_per_night">RM / night</string>
+    <string name="text_total">Total (RM)</string>
+
+    <string name="err_msg_invalid_dates">Invalid dates.</string>
+    <string name="err_msg_enter_number_of_guests">Please fill in the number of guests.</string>
+    <!-- Booking Activity End -->
+
+    <!-- Checkout Activity Start -->
+    <string name="toolbar_checkout">Checkout</string>
+    <string name="title_payment_details">Payment Details</string>
+    <string name="hint_card_number">Card Number</string>
+    <string name="hint_card_holder">Card Holder Name</string>
+    <string name="hint_mm_yy">mm/yy</string>
+    <string name="hint_cvv">cvv</string>
+    <string name="hint_total_value">9999</string>
+
+    <string name="err_msg_enter_card_number">Please enter the card number.</string>
+    <string name="err_msg_enter_card_holder">Please enter the card holder name.</string>
+    <string name="err_msg_enter_expiry">Please enter the expiry of the card.</string>
+    <string name="err_msg_enter_cvv">Please enter the cvv.</string>
+    <!-- Checkout Activity End -->
+
+
+    <!-- Etc -->
+    <string name="please_wait">Please Wait…</string>
+    <string name="permission_denied">Oops, you just denied the permission for storage. You can also allow it from settings.</string>
+    <string name="favorite_success">Added to wishlists.</string>
+    <string name="favorite_removed">Removed from wishlists.</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+</resources>

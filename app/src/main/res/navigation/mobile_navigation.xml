@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/explore">
+
+    <fragment
+        android:id="@+id/explore"
+        android:name="com.example.travelpal.fragments.ExploreFragment"
+        android:label="Explore"
+        tools:layout="@layout/fragment_explore" />
+    <fragment
+        android:id="@+id/notifications"
+        android:name="com.example.travelpal.fragments.NotificationFragment"
+        android:label="Notifcations"
+        tools:layout="@layout/fragment_notification" />
+    <fragment
+        android:id="@+id/profile"
+        android:name="com.example.travelpal.fragments.ProfileFragment"
+        android:label="Profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/trips"
+        android:name="com.example.travelpal.fragments.TripsFragment"
+        android:label="Trips"
+        tools:layout="@layout/fragment_trips" />
+    <fragment
+        android:id="@+id/wishlists"
+        android:name="com.example.travelpal.fragments.WishlistFragment"
+        android:label="Wishlists"
+        tools:layout="@layout/fragment_wishlist" />
+</navigation>

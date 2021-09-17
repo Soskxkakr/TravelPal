@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/APU/TravelPal/app/src/main/res/drawable-v24/notification_icon.xml" value="0.403125" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/drawable-v24/user_image_background.xml" value="0.39692307692307693" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/drawable/app_gradient_color.xml" value="0.3814814814814815" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/drawable/search_view_background.xml" value="0.37962962962962965" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/drawable/selector_favorite_stay.xml" value="0.403125" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout-v23/activity_add_stay.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_add_stay.xml" value="0.3729166666666667" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_booking.xml" value="0.25" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_change_profile_details.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_checkout.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_forgot_password.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_notification_details.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_register.xml" value="0.2857789855072464" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_stay_details.xml" value="0.33" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/activity_trip_details.xml" value="0.33" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/fragment_explore.xml" value="0.25" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/fragment_notification.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/fragment_profile.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/fragment_trips.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/fragment_wishlist.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/grid_item.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/item_list.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/notification_list.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/progress_dialog.xml" value="0.23097826086956522" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/stay_list.xml" value="0.33" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/layout/trip_list.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/menu/bottom_navigation.xml" value="0.38697916666666665" />
+        <entry key="..\:/APU/TravelPal/app/src/main/res/menu/favorite.xml" value="0.33" />
+        <entry key="..\:/APU/YEAR 3/SEM 1/AMCA/TravelPal/app/src/main/res/layout/activity_login.xml" value="0.2921195652173913" />
+        <entry key="..\:/APU/YEAR 3/SEM 1/AMCA/TravelPal/app/src/main/res/layout/activity_register.xml" value="0.2921195652173913" />
+        <entry key="..\:/APU/YEAR 3/SEM 1/AMCA/TravelPal/app/src/main/res/layout/progress_dialog.xml" value="0.2921195652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
