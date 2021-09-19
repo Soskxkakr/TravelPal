@@ -3,10 +3,7 @@ package com.example.travelpal.ui
 import android.content.Intent
 import android.os.Bundle
 import android.text.TextUtils
-import android.widget.Button
-import android.widget.CheckBox
-import android.widget.EditText
-import android.widget.Toast
+import android.widget.*
 import com.example.travelpal.R
 import com.example.travelpal.firestore.Firestore
 import com.example.travelpal.models.User
@@ -20,6 +17,10 @@ class RegisterActivity : BaseActivity() {
 
         findViewById<Button>(R.id.btn_sign_up).setOnClickListener {
             registerUser()
+        }
+
+        findViewById<TextView>(R.id.tv_sign_in).setOnClickListener{
+            startActivity(Intent(this, LoginActivity::class.java))
         }
     }
 
