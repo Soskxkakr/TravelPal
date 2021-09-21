@@ -8,6 +8,7 @@ import android.os.Looper
 import com.example.travelpal.R
 import com.example.travelpal.firestore.Firestore
 import com.example.travelpal.utils.Constants
+import com.google.firebase.auth.FirebaseAuth
 
 class SplashActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

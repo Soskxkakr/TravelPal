@@ -3,7 +3,6 @@ package com.example.travelpal.ui
 import android.content.Intent
 import android.os.Bundle
 import android.text.TextUtils
-import android.util.Log
 import android.view.View
 import android.widget.Button
 import android.widget.EditText
@@ -27,10 +26,7 @@ class LoginActivity : BaseActivity(), View.OnClickListener {
         if (v != null) {
             when(v.id) {
                 R.id.btn_sign_in -> {
-                    startActivity(
-                        Intent(this, MainActivity::class.java)
-                    )
-                    // logInRegisteredUser()
+                    logInRegisteredUser()
                 }
 
                 R.id.tv_forgot_password -> {

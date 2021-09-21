@@ -44,8 +44,11 @@ class Firestore {
 
     fun getCurrentUserID(): String {
         // An Instance of currentUser using FirebaseAuth
+        Log.i(
+            "Cookies!",
+            "IASDASIH"
+        )
         val currentUser = FirebaseAuth.getInstance().currentUser
-
 
         // A variable to assign the currentUserId if it is not null or else it will be blank.
         var currentUserID = ""
